@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "324193645533",
+    "project_id": "sweater-weather-d41b4",
+    "storage_bucket": "sweater-weather-d41b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324193645533:android:a6661a5b0291e786b6bc34",
+        "android_client_info": {
+          "package_name": "com.example.sweaterweather"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324193645533-rgs9t8op8dd87blga201elt8ka96pof2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTAZZwzkYfkj1AhkuvPkz7Px2h-zisTYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "324193645533-rgs9t8op8dd87blga201elt8ka96pof2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
